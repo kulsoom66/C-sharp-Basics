@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Training\\Desktop\\C# projects\\Application1\\Application1\\Application1.csproj": {}
+    "C:\\Users\\Training\\Desktop\\C# projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Training\\Desktop\\C# projects\\Application1\\Application1\\Application1.csproj": {
+    "C:\\Users\\Training\\Desktop\\C# projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Training\\Desktop\\C# projects\\Application1\\Application1\\Application1.csproj",
-        "projectName": "Application1",
-        "projectPath": "C:\\Users\\Training\\Desktop\\C# projects\\Application1\\Application1\\Application1.csproj",
+        "projectUniqueName": "C:\\Users\\Training\\Desktop\\C# projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectName": "ConsoleApp1",
+        "projectPath": "C:\\Users\\Training\\Desktop\\C# projects\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
         "packagesPath": "C:\\Users\\Training\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Training\\Desktop\\C# projects\\Application1\\Application1\\obj\\",
+        "outputPath": "C:\\Users\\Training\\Desktop\\C# projects\\ConsoleApp1\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
